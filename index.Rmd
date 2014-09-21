@@ -5,7 +5,7 @@ framework: deckjs
 deckjs: {theme: web-2.0}
 highlighter: highlight.js
 hitheme    : solarized_light
-mode : self-contained
+
 ---
 ## What is R?
 <iframe width="1000" height="525" src="//www.youtube.com/embed/TR2bHSJ_eck"allowfullscreen></iframe>
