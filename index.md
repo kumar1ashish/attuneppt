@@ -80,11 +80,12 @@ Best of both worlds-
 ![rh](http://blog.five1.de/wp-content/uploads/2012/07/Architektur-R-Integration-SAP-HANA.jpg)
 
 ---
-## Thank You!
+## Presentation 
 
 
 Author : Ashish kumar <br/>
         Data Scientist <br/>
         Attune Consulting India Pvt ltd.
+
 ---
 
